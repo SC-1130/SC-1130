@@ -10,12 +10,11 @@
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SC-1130/azure-network-protocols))
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="Prince | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prince | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prince | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Prince | LinkedIn" width="22px" src="(https://www.linkedin.com/in/prince-davidson)" />][linkedin]
 
-[twitter]: https://twitter.com/Prince
-[instagram]: https://www.instagram.com/Prince
-[linkedin]: https://linkedin.com/in/Prince
+
+
+
+[linkedin]: https://linkedin.com/in/Prince-Davidson
