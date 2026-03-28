@@ -1,4 +1,4 @@
-  <h1>Hi, I'm Prince, an <a href="[https://www.linkedin.com/in/prince-davidson]">IT Professional</a></h1>   
+  <h1>Hi, I'm Prince, an <a href="[[https://www.linkedin.com/in/prince-davidson]](https://www.linkedin.com/in/prince-davidson/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bc2%2BslPJTRwuVbqwa%2Bftovw%3D%3D)">IT Professional</a></h1>   
 
 <h2> Information Technology Projects:</h2>
 
