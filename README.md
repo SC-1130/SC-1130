@@ -10,9 +10,7 @@
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SC-1130/azure-network-protocols))
 
-<h2>Connect with me:</h2>
 
-[<img align="left" alt="Prince | LinkedIn" width="22px" src="(https://www.linkedin.com/in/prince-davidson)" />][linkedin]
 
 
 
