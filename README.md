@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   
- - [osTicket: Ticket Lifecycle Examples](https://github.com/SC-1130/SC-1130/tree/main)/ticket-lifecycle)
+ - [osTicket: Ticket Lifecycle Examples](https://github.com/SC-1130/SC-1130/tree/main/ticket-lifecycle))
 
 <h2>Connect with me:</h2>
 
